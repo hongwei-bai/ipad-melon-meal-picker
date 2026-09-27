@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Gradle & Kotlin build directories
+.gradle/
+build/
+**/build/
+.kotlin/
+.externalNativeBuild/
+
+# Local properties / SDK configs
+local.properties
+.cxx/
+
+# Xcode & iOS build artifacts
+*.xcuserstate
+project.xcworkspace/xcuserdata/
+xcuserdata/
+DerivedData/
+*.hprof
+
+# IDE - IntelliJ / Android Studio / VS Code
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+.vscode/
+
+# Package / distribution outputs
+*.apk
+*.aab
+*.ipa
+*.dSYM.zip
+*.dSYM
